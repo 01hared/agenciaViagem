@@ -1,0 +1,54 @@
+body {
+    background-color: rgb(255, 255, 255);
+    background-repeat: no-repeat;
+    
+}
+.corpo1{
+ 
+    width: 50%;
+    justify-content: center;
+    text-align: center;
+    margin-left: 25%;
+    margin-top: 8%;
+    height: 100%;
+}
+
+.teste1{
+    margin-top: 8%;
+    margin-left: 5%;
+    margin-right:5% ;
+    justify-content: center;
+    text-align: center;
+    border: solid black 1px;
+    border-radius: 1em;
+    width: 300px;
+}
+
+input{
+    border-radius: 0.5em;
+}
+
+.botao{
+    border-radius: 1em;
+    background-color: #2a2a72;
+    justify-content: center;
+}
+
+.conti{
+    border:solid black 0.5px;
+    border-radius: 0.5em;
+    width: 15vw;
+    justify-content: center;
+    margin-left: 33%;
+    color: rgb(46, 43, 43);
+}
+
+a:link{
+    text-decoration: none;
+    color: black;
+}
+
+.span{
+    text-align: left;
+}
+
